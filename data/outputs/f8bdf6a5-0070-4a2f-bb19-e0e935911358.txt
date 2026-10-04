@@ -1,0 +1,78 @@
+Unknown: You've probably seen plenty of videos about daily stand-ups or daily scrum that focus
+Unknown: on the theory.
+Unknown: In this video, we'll focus on the practical sites, a real daily with a team of real people
+Unknown: tackling real challenges.
+Unknown: By the end of this video, you'll walk away with actionable insights to improve your
+Unknown: own daily stand-up.
+Unknown: I am Bram the Block, at your coach at Skyline Communications, and I'll guide you through
+Unknown: a real daily stand-up with our Fibersquads.
+Unknown: This team develops software solutions for complex problems in the media and broadcast sector.
+Unknown: Let's see how they approach their daily.
+Unknown: Welcome to our daily.
+Unknown: So let's look into the reviews.
+Unknown: The daily isn't a team meeting, at least not in a traditional sense.
+Unknown: The only people who should actively participate in the daily standup are those doing the hands-on work.
+Unknown: In our case, that's mainly developers.
+Unknown: So not the IJA coach, not a product owner and not the manager.
+Unknown: They can join, but only to observe.
+Unknown: And after the meeting, they can follow up to offer support or ask questions based on
+Unknown: what they've heard. But just leave these 15 minutes to the developers so they can update their plan.
+Unknown: The Fibersquad is an international and diverse team with people from Portugal, Bosnia,
+Unknown: Herzegovina and Belgium. Some have been with Skyline for less than a year, while others
+Unknown: have been here for over 10 years. It just goes to show that a protective daily doesn't
+Unknown: depend on being co-located.
+Unknown: Remember, you've only got a limited time box for your daily, so promoting quick decision-making is key.
+Unknown: To do this, it's important to be as transparent as possible about the true state of the team's
+Unknown: work, without turning this into a status meeting.
+Unknown: Fiber does this by sharing the board with their work.
+Unknown: worry if you or your team doesn't have this data. The key takeaway here is to use
+Unknown: whatever information you do have to create a shared understanding across the
+Unknown: team and promote transparency. In one quick glance the team understands the
+Unknown: amount of work in progress, their current throughput, their service level
+Unknown: expectations, the state of the work items and more.
+Unknown: We've been in different states.
+Unknown: No, but yeah, that's fine. That's fine.
+Unknown: That's fine, ?
+Unknown: That's why you do a standard as well.
+Unknown: It is possible to live in a different state.
+Unknown: Indeed. There will be moments when the information presented is outdated. That's expected.
+Unknown: The daily standard is your opportunity to get the team back on track
+Unknown: with the most up-to-date information.
+Unknown: By doing this, you've already reduced the risk to your project.
+Unknown: And you've done it in just 15 minutes. Congratulations!
+Unknown: If the problem they reported is when going from draft to tentative, they have an issue with the name.
+Unknown: Yeah, that is big.
+Unknown: Yeah, that's to the customer.
+Unknown: Because it's production.
+Unknown: Yeah, is it also the same media op package on staging and production?
+Unknown: Did you notice how the team collaborated?
+Unknown: First, Naira openly communicated the obstacle to the team.
+Unknown: Then, Tim proposed reaching out to the customer to see if we can reproduce the issue on their production environment.
+Unknown: Friedrich then suggested, maybe the issue is that staging and production aren't on the same version that could explain the difference.
+Unknown: This is exactly the purpose of a daily.
+Unknown: A team of experts putting their heads together, building on each other's ideas and insights
+Unknown: to refine and update the plan for the day.
+Unknown: Another way to save time in a daily is by using a parking lot.
+Unknown: Here, several developers briefly discussed their plan of action for supporting a customer
+Unknown: with a complex upgrade to a device called the V Matrix.
+Unknown: I will review his mail, check with he went in because I think he missed maybe one step
+Unknown: and his procedure.
+Unknown: But apparently he has already tried it on his staging and he was quite confident in it. Let's see.
+Unknown: There was only one item that came out of it and I think it applied the check with you
+Unknown: after this meeting. Yep, that's fine. Then let's think of line between us three and take it from there.
+Unknown: Looks like it needs further discussion and with just a few people. So to avoid taking too much time
+Unknown: from the whole team and continue the daily, they decide to take it offline. This is known as
+Unknown: the parking lot, where topics that require deeper discussions are parked. Immediately after the
+Unknown: the daily, the relevant people plan a follow-up to discuss those items in more detail.
+Unknown: Good use of the parking lots allows the team to stick to the 15-minute time box or even finish sooner.
+Unknown: In less than 15 minutes, our team has an updated plan.
+Unknown: We're aligned, aware of each other's work and confident that our plan reflects the
+Unknown: most current information to turn our time into value.
+Unknown: To sum it up, remember, keep the focus on the people doing the hands-on work.
+Unknown: Promote transparency so everyone stays on the same page.
+Unknown: Foster collaboration by encouraging open communication and problem solving.
+Unknown: And use the parking lot to handle deeper discussions
+Unknown: after the daily so you can stick to the time box.
+Unknown: And that's a wrap on our daily standup.
+Unknown: We hope these tips help you take your daily to the next level.
+Unknown: Thanks for watching, feel free to leave a comment below and I'll reply as soon as I can.
